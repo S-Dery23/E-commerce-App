@@ -26,7 +26,7 @@ export default function App() {
       </View>
 
       <View style={styles.flex}>
-        <Button title='asdsa'/>
+        <Button title='Login'/>
       </View>
     </View>
   );
@@ -69,7 +69,4 @@ const styles = StyleSheet.create({
     padding: 5,
   },
 
-  button: {
-    backgroundColor: 'white',
-  },
 });
