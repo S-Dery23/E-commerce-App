@@ -21,7 +21,7 @@ export default function App() {
 
       <View style={styles.flex}>
         <Text style={styles.flexText}>Password</Text>
-        <TextInput placeholder='hellllllloooooo' value={password} onChangeText={setPassword} style={styles.insert}/>
+        <TextInput value={password} onChangeText={setPassword} style={styles.insert}/>
       </View>
       </View>
 
