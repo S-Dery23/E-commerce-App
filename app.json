@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SDWares",
-    "slug": "SDWares",
+    "name": "phones",
+    "slug": "phones",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,7 +15,7 @@
     },
     "assetBundlePatterns": [
       "**/*"
-    ],
+    ], 
     "ios": {
       "supportsTablet": true
     },
